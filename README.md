@@ -23,6 +23,7 @@ Le projet est structuré comme suit :
 ```
 ├── client
 ├── server
+├── .gitignore
 └── README.md
 ```
 
